@@ -7,10 +7,10 @@ googleAnalytics = ""
 
 [params]
     author = "Nicholas Kiermaier"
-    description = "A man a plan a canal panama"
+    description = "Infinite Fuckery"
     githubUsername = "nkiermaier"
     accent = "blue"
-    showBorder = true
+    showBorder = false
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
