@@ -1,4 +1,4 @@
-baseURL = "mutant.city"
+baseURL = "http://mutant.city"
 languageCode = "en-us"
 title = "Minimal"
 theme = "minimal"
