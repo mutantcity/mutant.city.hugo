@@ -1,15 +1,15 @@
 baseURL = "http://mutant.city"
 languageCode = "en-us"
-title = "Minimal"
+title = "Mutant.City"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
-    githubUsername = "#"
-    accent = "red"
+    author = "Nicholas Kiermaier"
+    description = "A man a plan a canal panama"
+    githubUsername = "nkiermaier"
+    accent = "blue"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
